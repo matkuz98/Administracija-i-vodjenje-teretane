@@ -1,0 +1,5 @@
+body {
+    background-image: url('pexels-ivan-samkov-4164450.jpg'); /* Postavljanje slike na pozadinu */
+    background-size: cover; /* Da bi slika pokrila cijelu pozadinu */
+    background-position: center top; /* Da bi slika bila centrirana */
+}
